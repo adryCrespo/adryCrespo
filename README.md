@@ -6,7 +6,8 @@
 - 👨‍💻 Mi portafolio 
   - [Prediccion baja de cliente en Telco](https://github.com/adryCrespo/Churn_predictions_telco)  
   - [Prediccion de recaudacion de taquilla](https://github.com/adryCrespo/Taquilla_Cine)  
-  - [Discovery clientes de un ecommerce](https://github.com/adryCrespo/Analisis-ecommerce)  
+  - [Discovery clientes de un ecommerce](https://github.com/adryCrespo/Analisis-ecommerce)
+  - [Analisis de sentimiento reviews Amazon](https://github.com/adryCrespo/Sentiment_analyzer_Amazon)
 - 📫 Como contactar conmigo: **adrian.crespo.durante@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
