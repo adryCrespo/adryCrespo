@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy adrian crespo</h1>
-<h3 align="center">un estusiasta de la ciencia de datos y python</h3>
+<h3 align="center">un estusiasta de los datos y python</h3>
 
 - 🌱 Estoy aprendiendo **Azure, sparkSQL**
 
