@@ -1,9 +1,10 @@
 <h1 align="center">Hola 👋, soy adrian crespo</h1>
 <h3 align="center">un estusiasta de los datos y python</h3>
 
-- 🌱 Estoy aprendiendo **Azure, sparkSQL**
+- Proyectos de ingenieria de datos
+  - [Prediccion de demanda de energia](https://github.com/adryCrespo/cf_mlops_energia)
 
-- 👨‍💻 Mi portafolio 
+- 👨‍💻 Proyectos ciencia de datos
   - [Prediccion baja de cliente en Telco](https://github.com/adryCrespo/Churn_predictions_telco)  
   - [Prediccion de recaudacion de taquilla](https://github.com/adryCrespo/Taquilla_Cine)  
   - [Discovery clientes de un ecommerce](https://github.com/adryCrespo/Analisis-ecommerce)
